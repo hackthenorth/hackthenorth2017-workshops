@@ -14,5 +14,6 @@ Check out this repo for a list of summary sheets for our workshops this year!  T
 - [**Security**](/Security.md)
 - [**Virtual Reality**](/VirtualReality.md)
 - **Web Dev**
-  - [**Web Dev 1**](/WebDev_1.md)
+  - [**Web Dev 1**](/WebDev_1.pdf)
+  - [**Web Dev 2**](/WebDev_2_Backend.pdf)
   - [**Web Dev 2 (Frontend)**](WebDev_2_Frontend.md)
