@@ -9,6 +9,7 @@ Check out this repo for a list of summary sheets for our workshops this year!  T
   - [**Android 2**](/Android_2.md)
 - [**Data Science**](https://github.com/uwaterloo-datascience/r-starter)
 - [**Game Dev**](/Gamedev.md)
+- [**iOS**](/iOS.md)
 - [**Mental Health**](/MentalHealth.md)
 - [**Security**](/Security.md)
 - **Web Dev**
