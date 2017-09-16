@@ -44,8 +44,7 @@
   - Learning to detach others from yourself
     - Be happy when people succeed but don&#39;t let it crush your own self confidence
 
-Self Care
-
+## Self Care
 - No one can take better care of you than you!
 - Without proper self care you mental health will suffer when times of stress come along
 - Having good mental health is like having a sturdy ship, when harsh winds come you are not broken
@@ -62,8 +61,7 @@ Self Care
   - Time management
   - Not being hard on yourself
 
-Being an effective Peer Supporter
-
+## Being an effective Peer Supporter
 - All of us have a desire to help those around us
 - Not all of us can devote the time and energy into getting formal training
 - It is not hard to be a good peer supporter
