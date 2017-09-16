@@ -10,3 +10,6 @@ Check out this repo for a list of summary sheets for our workshops this year!  T
 - **Android**
   - [**Android 1**](/Android_1.md)
   - [**Android 2**](/Android_2.md)
+- **Web Dev**
+  - [**Web Dev 1**](/WebDev_1.md)
+  - [**Web Dev 2 (Frontend)**](WebDev_2_Frontend.md)
