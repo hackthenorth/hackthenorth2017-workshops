@@ -1,7 +1,7 @@
 # Android 1 Workshop
 
 XML structure: 
-- Tags indicate the structure (eg. <LinearLayout> … </LinearLayout>, <TextView … />)
+- Tags indicate the structure (eg. &lt;LinearLayout> … &lt;/LinearLayout>, &lt;TextView … />)
 - Various attributes can also be set inside of the tags (eg. android:Text = “Hello”) 
 Linear layout: 
 - Can have vertical or horizontal orientation
