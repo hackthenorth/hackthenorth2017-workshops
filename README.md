@@ -6,3 +6,4 @@ Check out this repo for a list of summary sheets for our workshops this year!  T
 ## List of Summary Sheets
 - [**Data Science**](https://github.com/uwaterloo-datascience/r-starter)
 - [**Security**](/Security.md)
+- [**Game Dev**](/Gamedev.md)
