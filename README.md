@@ -7,3 +7,6 @@ Check out this repo for a list of summary sheets for our workshops this year!  T
 - [**Data Science**](https://github.com/uwaterloo-datascience/r-starter)
 - [**Security**](/Security.md)
 - [**Game Dev**](/Gamedev.md)
+- **Android**
+  - [**Android 1**](/Android_1.md)
+  - [**Android 2**](/Android_2.md)
