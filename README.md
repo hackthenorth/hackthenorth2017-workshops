@@ -4,6 +4,7 @@
 Check out this repo for a list of summary sheets for our workshops this year!  They contain information on what the workshops will be convering and even some resources and tips that will be extremely useful for your hack!
 
 ## List of Summary Sheets
+- [**API 101**](/API101.pptx)
 - **Android**
   - [**Android 1**](/Android_1.md)
   - [**Android 2**](/Android_2.md)
@@ -13,7 +14,6 @@ Check out this repo for a list of summary sheets for our workshops this year!  T
 - [**Mental Health**](/MentalHealth.md)
 - [**Security**](/Security.md)
 - [**Virtual Reality**](/VirtualReality.md)
-- [**API 101**](/API101.pptx)
 - **Web Dev**
   - [**Web Dev 1**](/WebDev_1.pdf)
   - [**Web Dev 2**](/WebDev_2_Backend.pdf)
