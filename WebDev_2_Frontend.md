@@ -1,4 +1,4 @@
-# Web Dev 2
+# Web Dev 2 (Frontend)
 
 ## Getting Started with VueJS
 To start a project with VueJS, use Vue CLI: https://vuejs.org/v2/guide/installation.html#CLI
