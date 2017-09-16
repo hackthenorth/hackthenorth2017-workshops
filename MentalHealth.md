@@ -11,8 +11,8 @@
   - Low control
 - Prevention
   - Examining stressors
-    - ■■Looking at them in terms of risk
-    - ■■Framing them in terms of person-job mismatch
+    - Looking at them in terms of risk
+    - Framing them in terms of person-job mismatch
   - Reducing stressors
   - Time management
   - Asking for help /  delegation
